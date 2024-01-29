@@ -1,0 +1,46 @@
+body{
+    color: rgb(255, 255, 255);
+    background-image: url(tao.jpg);
+}
+#Titulo {
+    color: rgb(255, 255, 255);
+    font-size: 90pt;
+    font-weight: 120;
+    font-family: "Segoe IU", sans-serif;
+}
+div{
+    background-color: rgb(1, 4, 10);
+    width: 800px;
+    margin: 0 auto;
+}
+.parrafo {
+
+    font: small-caps 100%/200% serif;
+}
+nav ul{
+    background-color: rgb(13, 73, 192);
+    display: flex;
+}
+nav ul li{
+    list-style: none;
+
+}
+nav ul li a{
+    color: #ffffffb8;
+    display: block;
+    width: 220px;
+    text-align: center;
+    font: small-caps 100%/200% serif;
+}
+nav ul li a:hover{
+    background-color: rgb(252, 253, 253);
+
+}
+img{
+    width: 250px;
+    padding: 0 15px;
+    float: right;
+}
+.lista {
+    line-height: 200%;
+}
