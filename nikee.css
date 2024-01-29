@@ -8,6 +8,8 @@ body{
     font-weight: 120;
     font-family: "Segoe IU", sans-serif;
 }
+#Titulo:hover{ 
+    font-size: 1.5em;}
 div{
     background-color: rgb(1, 4, 10);
     width: 800px;
